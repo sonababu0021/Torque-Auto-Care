@@ -1,4 +1,4 @@
-import Hero3D from "@/components/Hero3d";
+import Hero3D from "../src/components/Hero3d";
 import { footer } from "framer-motion/client";
 export default function Home() {
   return (
